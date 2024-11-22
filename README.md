@@ -17,6 +17,6 @@ The Travel Itinerary Generator is a project designed to simplify and personalize
 ![image](https://github.com/user-attachments/assets/b7c44bc8-8302-40d1-8ded-8e6ccedeefd0)
 ![image](https://github.com/user-attachments/assets/6be43acf-ad5a-49c3-aa90-ea3a8b674d2e)
 ![image](https://github.com/user-attachments/assets/bfbd29d3-d605-451c-80cf-42ff14383b5b)
-Warning: While the dataset file names includes names from Jaipur, the actual data strictly pertains to Mumbai only.
+### Warning: While the dataset file names includes names from Jaipur, the actual data strictly pertains to Mumbai only.
 
 
