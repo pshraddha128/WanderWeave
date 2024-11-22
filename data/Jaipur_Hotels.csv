@@ -1,0 +1,197 @@
+﻿HID,Hotel,Price,Number of Reviews,Desirable
+HID1,The Taj Mahal Palace,25000,5305,4.690357653
+HID2,The Oberoi Mumbai,20000,4358,4.057938869
+HID3,Trident Nariman Point,15000,3499,4.36547255
+HID4,Four Seasons Hotel Mumbai,18000,2278,4.34457926
+HID5,JW Marriott Mumbai Juhu,16000,3189,4.121827895
+HID6,The St. Regis Mumbai,22000,2392,4.147761712
+HID7,Grand Hyatt Mumbai,17000,2297,4.9040834
+HID8,ITC Maratha,14000,2239,4.952473784
+HID9,The Leela Mumbai,19000,1971,4.257555623
+HID10,Sofitel Mumbai BKC,16000,1467,4.860651655
+HID11,Hyatt Regency Mumbai,13000,1648,4.0585647
+HID12,Novotel Mumbai Juhu Beach,12000,1683,4.377002017
+HID13,Hilton Mumbai International Airport,15000,1121,4.500188655
+HID14,Sahara Star,14000,1172,4.101997304
+HID15,The Lalit Mumbai,16000,1223,4.036654905
+HID16,Renaissance Mumbai Convention Centre Hotel,15000,1149,4.855216006
+HID17,Courtyard by Marriott Mumbai International Airport,12000,1321,4.381628428
+HID18,Holiday Inn Mumbai International Airport,11000,1654,4.250954621
+HID19,The Westin Mumbai Garden City,17000,1594,4.839724332
+HID20,InterContinental Marine Drive Mumbai,20000,832,4.003820899
+HID21,Radisson Mumbai Andheri MIDC,9000,454,3.191312279
+HID22,Meluha The Fern,8000,647,3.360802491
+HID23,Ramada Plaza by Wyndham Palm Grove,7500,630,3.611623236
+HID24,The Orchid Mumbai Vile Parle,8500,929,4.166036319
+HID25,Waterstones Hotel,9500,536,3.513286837
+HID26,Taj Lands End,18000,1617,4.74215544
+HID27,Vivanta Navi Mumbai,10000,551,3.011413206
+HID28,The Fern Residency Mumbai,7000,521,3.325326201
+HID29,Kohinoor Continental,6500,519,3.0135279
+HID30,Ginger Mumbai Andheri,4000,925,3.770877524
+HID31,Hotel Bawa Continental,5000,366,3.440965463
+HID32,Sun-n-Sand Hotel Mumbai,11000,871,4.179877491
+HID33,The Gordon House Hotel,9000,647,4.452521949
+HID34,Hotel Sea Princess,8000,471,3.690467087
+HID35,Residency Hotel Fort,6000,744,4.591451497
+HID36,Hotel Suba Palace,5500,643,4.07819559
+HID37,Abode Bombay,7000,527,4.281492345
+HID38,Hotel Marine Plaza,9500,447,3.528384088
+HID39,Fariyas Hotel,7500,613,3.310110008
+HID40,The Ambassador Mumbai,8500,417,3.61368429
+HID41,Hotel Suba International,6000,470,3.051634051
+HID42,Treebo Trend Garden Hotel,4500,291,3.57578793
+HID43,Hotel Kemps Corner,5000,278,3.287909443
+HID44,Hotel Godwin,4500,544,3.339367782
+HID45,Hotel Cosmo,3500,292,3.785013641
+HID46,Hotel Elphinstone Annexe,3000,262,3.518601889
+HID47,Hotel Arma Court,4000,237,3.554816499
+HID48,Hotel Suncity Apollo,3500,232,3.357418497
+HID49,Hotel Sapna Marine,4000,250,3.162440601
+HID50,Hotel Kumkum,3000,217,3.470155841
+HID51,Cafe Mondegar,500,1200,4.5
+HID52,Leopold Cafe,600,1500,4.3
+HID53,Prithvi Cafe,400,800,4.7
+HID54,Cafe Madras,300,1000,4.6
+HID55,Cafe Zoe,700,900,4.4
+HID56,The Pantry,550,700,4.2
+HID57,Kala Ghoda Cafe,450,600,4.1
+HID58,Cafe Samovar,350,500,4.0
+HID59,Theobroma,400,1100,4.8
+HID60,Cafe Moshe's,500,800,4.3
+HID61,Candies,350,950,4.5
+HID62,Cafe Churchill,450,750,4.2
+HID63,Cafe Universal,400,650,4.0
+HID64,Cafe Royal,550,850,4.4
+HID65,Cafe Britannia & Co.,500,1000,4.6
+HID66,Cafe Basilico,600,700,4.3
+HID67,Cafe Ideal,350,550,3.9
+HID68,Cafe Mysore,400,600,4.1
+HID69,Cafe Mangi,550,750,4.3
+HID70,Cafe Mocambo,500,650,4.2
+HID71,Hotel Residency Andheri,5500,320,3.8
+HID72,Hotel Kohinoor Elite,6000,280,3.7
+HID73,Hotel Sahara Star,13000,1100,4.2
+HID74,Hotel Citizen,4500,190,3.5
+HID75,Hotel Midtown Pritam,5000,210,3.6
+HID76,Hotel Parle International,5500,230,3.7
+HID77,Hotel Bawa International,6000,250,3.8
+HID78,Hotel Airport International,5000,220,3.6
+HID79,Hotel Metropolis,4500,200,3.5
+HID80,Hotel Suba Galaxy,5500,240,3.7
+HID81,Hotel Suba Palace,6000,260,3.8
+HID82,Hotel Suba International,5000,230,3.6
+HID83,Hotel Suba Grand,5500,250,3.7
+HID84,Hotel Suba Star,4500,210,3.5
+HID85,Hotel Suba Elite,6000,270,3.8
+HID86,Hotel Suba Residency,5000,220,3.6
+HID87,Hotel Suba Crown,5500,240,3.7
+HID88,Hotel Suba Classic,4500,200,3.5
+HID89,Hotel Suba Paradise,6000,260,3.8
+HID90,Hotel Suba Royal,5000,230,3.6
+HID91,Hotel Suba Galaxy,5500,250,3.7
+HID92,Hotel Suba Jewel,4500,210,3.5
+HID93,Hotel Suba Pearl,6000,270,3.8
+HID94,Hotel Suba Sapphire,5000,220,3.6
+HID95,Hotel Suba Ruby,5500,240,3.7
+HID96,Hotel Suba Diamond,4500,200,3.5
+HID97,Hotel Suba Emerald,6000,260,3.8
+HID98,Hotel Suba Gold,5000,230,3.6
+HID99,Hotel Suba Silver,5500,250,3.7
+HID100,Hotel Suba Bronze,4500,210,3.5
+HID101,Hotel Grand Hyatt,18000,2000,4.5
+HID102,Hotel Trident BKC,16000,1800,4.3
+HID103,Hotel Sofitel BKC,17000,1900,4.4
+HID104,Hotel Westin Garden City,15000,1700,4.2
+HID105,Hotel Renaissance Powai,14000,1600,4.1
+HID106,Hotel Marriott Juhu,16000,1800,4.3
+HID107,Hotel Taj Santacruz,19000,2100,4.6
+HID108,Hotel Hilton International Airport,15000,1700,4.2
+HID109,Hotel Novotel Juhu Beach,13000,1500,4.0
+HID110,Hotel Radisson Andheri MIDC,12000,1400,3.9
+HID111,Hotel Sahara Star,14000,1600,4.1
+HID112,Hotel Meluha The Fern,11000,1300,3.8
+HID113,Hotel The Orchid,10000,1200,3.7
+HID114,Hotel The Lalit,15000,1700,4.2
+HID115,Hotel Ramada Plaza Palm Grove,12000,1400,3.9
+HID116,Hotel The Fern Goregaon,11000,1300,3.8
+HID117,Hotel Kohinoor Continental,10000,1200,3.7
+HID118,Hotel Sun N Sand Juhu,13000,1500,4.0
+HID119,Hotel The Gordon House,12000,1400,3.9
+HID120,Hotel Sea Princess Juhu,11000,1300,3.8
+HID121,Hotel Residency Andheri,9000,1100,3.6
+HID122,Hotel Sahil Sahar,8000,1000,3.5
+HID123,Hotel Midtown Pritam,7000,900,3.4
+HID124,Hotel Bawa International,8000,1000,3.5
+HID125,Hotel Airport International,7000,900,3.4
+HID126,Hotel Metropolis,6000,800,3.3
+HID127,Hotel Suba Galaxy,8000,1000,3.5
+HID128,Hotel Suba Palace,7000,900,3.4
+HID129,Hotel Suba International,6000,800,3.3
+HID130,Hotel Suba Grand,8000,1000,3.5
+HID131,Hotel Suba Star,7000,900,3.4
+HID132,Hotel Suba Elite,6000,800,3.3
+HID133,Hotel Suba Residency,8000,1000,3.5
+HID134,Hotel Suba Crown,7000,900,3.4
+HID135,Hotel Suba Classic,6000,800,3.3
+HID136,Hotel Suba Paradise,8000,1000,3.5
+HID137,Hotel Suba Royal,7000,900,3.4
+HID138,Hotel Suba Galaxy,6000,800,3.3
+HID139,Hotel Suba Jewel,8000,1000,3.5
+HID140,Hotel Suba Pearl,7000,900,3.4
+HID141,Hotel Suba Sapphire,6000,800,3.3
+HID142,Hotel Suba Ruby,8000,1000,3.5
+HID143,Hotel Suba Diamond,7000,900,3.4
+HID144,Hotel Suba Emerald,6000,800,3.3
+HID145,Hotel Suba Gold,8000,1000,3.5
+HID146,Hotel Suba Silver,7000,900,3.4
+HID147,Hotel Suba Bronze,6000,800,3.3
+HID148,Hotel Taj Land's End,20000,2200,4.7
+HID149,Hotel JW Marriott Sahar,19000,2100,4.6
+HID150,Hotel ITC Grand Central,18000,2000,4.5
+HID151,Hotel The Leela,21000,2300,4.8
+HID152,Hotel Four Seasons,20000,2200,4.7
+HID153,Hotel The St. Regis,22000,2400,4.9
+HID154,Hotel Trident Nariman Point,17000,1900,4.4
+HID155,Hotel Oberoi,21000,2300,4.8
+HID156,Hotel Taj Mahal Tower,19000,2100,4.6
+HID157,Hotel InterContinental Marine Drive,18000,2000,4.5
+HID158,Hotel Hyatt Regency,16000,1800,4.3
+HID159,Hotel Sofitel Mumbai BKC,17000,1900,4.4
+HID160,Hotel Grand Hyatt,18000,2000,4.5
+HID161,Hotel The Westin Mumbai Garden City,16000,1800,4.3
+HID162,Hotel Renaissance Mumbai Convention Centre,15000,1700,4.2
+HID163,Hotel Hilton Mumbai International Airport,16000,1800,4.3
+HID164,Hotel Novotel Mumbai Juhu Beach,14000,1600,4.1
+HID165,Hotel Radisson Blu Mumbai International Airport,15000,1700,4.2
+HID166,Hotel Sahara Star,14000,1600,4.1
+HID167,Hotel The Orchid,13000,1500,4.0
+HID168,Hotel The Lalit Mumbai,15000,1700,4.2
+HID169,Hotel Meluha The Fern,12000,1400,3.9
+HID170,Hotel Ramada Plaza Palm Grove,13000,1500,4.0
+HID171,Hotel The Fern Residency,11000,1300,3.8
+HID172,Hotel Kohinoor Continental,12000,1400,3.9
+HID173,Hotel Sun N Sand,14000,1600,4.1
+HID174,Hotel The Gordon House,13000,1500,4.0
+HID175,Hotel Sea Princess,12000,1400,3.9
+HID176,Hotel Residency Andheri,10000,1200,3.7
+HID177,Hotel Sahil Sahar,9000,1100,3.6
+HID178,Hotel Midtown Pritam,8000,1000,3.5
+HID179,Hotel Bawa International,9000,1100,3.6
+HID180,Hotel Airport International,8000,1000,3.5
+HID181,Hotel Metropolis,7000,900,3.4
+HID182,Hotel Suba Galaxy,9000,1100,3.6
+HID183,Hotel Suba Palace,8000,1000,3.5
+HID184,Hotel Suba International,7000,900,3.4
+HID185,Hotel Suba Grand,9000,1100,3.6
+HID186,Hotel Suba Star,8000,1000,3.5
+HID187,Hotel Suba Elite,7000,900,3.4
+HID188,Hotel Suba Residency,9000,1100,3.6
+HID189,Hotel Suba Crown,8000,1000,3.5
+HID190,Hotel Suba Classic,7000,900,3.4
+HID191,Hotel Suba Paradise,9000,1100,3.6
+HID192,Hotel Suba Royal,8000,1000,3.5
+HID193,Hotel Suba Galaxy,7000,900,3.4
+HID194,Hotel Suba Jewel,9000,1100,3.6
+HID195,Hotel Suba Pearl,8000,1000,3.5
+HID196,Hotel Suba Sapphire,7000,900,3.4

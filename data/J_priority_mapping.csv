@@ -1,0 +1,79 @@
+PID,POI,Shows and Concerts,Scenic,Local Experiences,Religious,History and Culture,Museum,Food and Drinks,Adventure,Shopping
+POI1,Gateway of India,0,4,5,0,5,0,2,0,3
+POI2,Chhatrapati Shivaji Terminus,0,3,4,0,5,0,0,0,2
+POI3,Marine Drive,0,5,4,0,3,0,2,1,0
+POI4,Elephanta Caves,0,4,3,2,5,0,0,2,0
+POI5,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,0,2,0,0,5,5,0,0,0
+POI6,Haji Ali Dargah,0,4,3,5,4,0,0,0,0
+POI7,Siddhivinayak Temple,0,2,4,5,3,0,0,0,0
+POI8,Juhu Beach,0,4,5,0,0,0,3,2,3
+POI9,Sanjay Gandhi National Park,0,5,3,0,2,0,0,4,0
+POI10,Bandra-Worli Sea Link,0,5,3,0,2,0,0,0,0
+POI11,Colaba Causeway,0,3,5,0,2,0,4,0,5
+POI12,Kanheri Caves,0,4,2,3,5,0,0,3,0
+POI13,Nehru Science Centre,0,0,4,0,0,5,0,2,0
+POI14,Mahalaxmi Temple,0,2,3,5,4,0,0,0,0
+POI15,Mumba Devi Temple,0,0,4,5,3,0,0,0,2
+POI16,ISKCON Temple,0,2,3,5,0,0,1,0,2
+POI17,Shree Siddhivinayak,0,2,4,5,3,0,0,0,0
+POI18,Girgaum Chowpatty,0,4,5,0,2,0,3,1,2
+POI19,Hanging Gardens,0,5,3,0,2,0,0,1,0
+POI20,Taraporewala Aquarium,0,3,4,0,0,5,0,2,0
+POI21,Powai Lake,0,5,3,0,0,0,2,3,0
+POI22,Shivaji Park,0,3,5,0,2,0,1,2,0
+POI23,Worli Fort,0,3,2,0,5,0,0,1,0
+POI24,Sanjay Gandhi National Park Safari,0,4,2,0,0,0,0,5,0
+POI25,National Centre for the Performing Arts,5,2,4,0,3,0,0,0,0
+POI26,Prithvi Theatre,5,0,4,0,3,0,2,0,0
+POI27,Versova Beach,0,4,5,0,0,0,2,2,1
+POI28,Basilica of Our Lady of the Mount,0,3,2,5,4,0,0,0,0
+POI29,Global Vipassana Pagoda,0,4,2,5,3,0,0,0,0
+POI30,Bandra Bandstand,0,5,4,0,2,0,3,0,1
+POI31,Zaveri Bazaar,0,0,4,0,2,0,0,0,5
+POI32,Aarey Milk Colony,0,4,3,0,0,0,2,5,0
+POI33,Khau Galli,0,2,5,0,0,0,5,0,3
+POI34,Dr. Bhau Daji Lad Mumbai City Museum,0,0,3,0,5,5,0,0,0
+POI35,RBI Monetary Museum,0,0,3,0,4,5,0,0,0
+POI36,Imagica Theme Park,0,3,5,0,0,0,3,5,2
+POI37,EsselWorld,0,3,4,0,0,0,2,5,1
+POI38,Banganga Tank,0,4,3,4,5,0,0,0,0
+POI39,Crawford Market,0,2,5,0,3,0,4,0,5
+POI40,Fashion Street,0,0,4,0,0,0,2,0,5
+POI41,Phoenix Marketcity,0,0,3,0,0,0,4,0,5
+POI42,Mahakali Caves,0,3,2,5,4,0,0,2,0
+POI43,Jehangir Art Gallery,0,0,4,0,3,5,0,0,1
+POI44,Water Kingdom,0,2,4,0,0,0,2,5,1
+POI45,Shanmukhananda Hall,5,0,3,0,2,0,0,0,0
+POI46,Mahalakshmi Racecourse,3,4,5,0,2,0,2,0,0
+POI47,Kidzania,0,0,5,0,0,0,2,4,2
+POI48,Sewri Fort,0,3,2,0,5,0,0,1,0
+POI49,Dharavi,0,0,5,0,3,0,2,0,4
+POI50,Sanjay Gandhi National Park Boating,0,5,3,0,0,0,1,4,0
+POI51,Powai Lake,0,5,3,0,0,0,2,3,0
+POI52,Mani Bhavan Gandhi Museum,0,0,3,0,5,5,0,0,0
+POI53,Mount Mary Church,0,3,2,5,3,0,0,0,1
+POI54,Sanjay Gandhi National Park Nature Trails,0,5,2,0,0,0,0,4,0
+POI55,Babulnath Temple,0,2,3,5,3,0,0,0,0
+POI56,Walkeshwar Temple,0,3,2,5,4,0,0,0,0
+POI57,Mahalakshmi Temple,0,3,3,5,4,0,0,0,0
+POI58,Haji Ali Dargah,0,4,3,5,4,0,0,0,0
+POI59,Maharashtra Nature Park,0,5,2,0,0,0,0,3,0
+POI60,Yoga Institute,0,0,5,3,0,0,0,2,0
+POI61,Vihar Lake,0,5,2,0,0,0,0,3,0
+POI62,Bandra Jama Masjid,0,2,3,5,3,0,0,0,0
+POI63,Nehru Planetarium,0,0,4,0,2,5,0,2,0
+POI64,Horniman Circle Garden,0,4,3,0,2,0,1,0,2
+POI65,High Street Phoenix,3,0,4,0,0,0,3,0,5
+POI66,Inorbit Mall,2,0,3,0,0,0,4,0,5
+POI67,Shivaji Park,0,4,5,0,3,0,2,2,0
+POI68,Chor Bazaar,0,0,5,0,3,0,2,0,5
+POI69,Snow World,0,2,4,0,0,0,1,5,2
+POI70,Afghan Church,0,3,2,5,4,0,0,0,0
+POI71,Linking Road,0,0,4,0,0,0,3,0,5
+POI72,Karnala Bird Sanctuary,0,5,2,0,0,0,0,4,0
+POI73,Balloon Ride Mumbai,0,5,3,0,0,0,0,4,0
+POI74,Kidzania,0,0,5,0,0,0,2,4,2
+POI75,Siddhivinayak Mandir,0,2,4,5,3,0,0,0,0
+POI76,Bandra Fort,0,3,2,0,5,0,0,1,0
+POI77,Chowpatty Beach,0,4,5,0,2,0,3,1,2
+
